@@ -1,0 +1,1 @@
+{"version":1,"defects":{"RoomTest::testCreateRoom":3},"times":{"RoomTest::testCreateRoom":0.058,"RoomTest::testPushAndPop":0.001,"RoomTest::testHowManyEnigma":0.001}}

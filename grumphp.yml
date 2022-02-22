@@ -1,2 +1,2 @@
 grumphp:
-    tasks: { phpcs: null, phpunit: null }
+  tasks: { composer: null, phpcs: null, phpunit: null }

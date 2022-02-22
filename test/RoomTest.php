@@ -29,7 +29,7 @@ $this->assertEquals(
 );
 
 $this->assertEquals($this->description,$this->room->getDescription());
-$this->assertEquals(60,$this->room->getDuration());
+$this->assertEquals(160,$this->room->getDuration());
 
 }
 
